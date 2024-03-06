@@ -1,5 +1,5 @@
 <template>
-  <nav class="bg-white border-gray-200 shadow">
+  <nav class="bg-white w-full fixed border-gray-200 shadow">
     <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-3">
       <a href="" class="flex items-center rtl:space-x-reverse">
         <div class="text-brand">
@@ -31,18 +31,17 @@
         </svg>
       </button>
     </div>
+    <div class="bg-[#46A09B] p-2 flex items-center gap-x-3">
+      <button
+        class="bg-white p-1 rounded-full flex items-center justify-center px-1.5 text-xs text-black gap-x-1"
+      >
+        ยอดขายสด
+        <span class="w-[10px] h-[10px] rounded-full bg-red-500"></span>
+      </button>
+      <div class="text-white text-xs font-light">ผู้ใช้: Us78**</div>
+      <div class="text-white text-xs font-light">ซื้อเลข: 12234</div>
+    </div>
   </nav>
-
-  <div class="bg-[#46A09B] p-2 flex items-center gap-x-3">
-    <button
-      class="bg-white p-1 rounded-full flex items-center justify-center px-1.5 text-xs text-black gap-x-1"
-    >
-      ยอดขายสด
-      <span class="w-[10px] h-[10px] rounded-full bg-red-500"></span>
-    </button>
-    <div class="text-white text-xs font-light">ผู้ใช้: Us78**</div>
-    <div class="text-white text-xs font-light">ซื้อเลข: 12234</div>
-  </div>
 </template>
 
 <script setup></script>
