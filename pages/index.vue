@@ -323,12 +323,12 @@
       <h1 class="text-[#46A09B]">News</h1>
       <div class="grid grid-cols-12 gap-2 gap-y-4 mt-3 text-[10px]">
         <div
-          class="col-span-3 bg-[#46A09B] bg-cover w-full"
+          class="col-span-3 md:min-h-[100px] bg-[#46A09B] bg-cover w-full"
           style="
             background-image: url(https://www.sawad.co.th/wp-content/uploads/2022/09/%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2-80-%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%8B%E0%B8%B2%E0%B8%95%E0%B8%B1%E0%B8%87.jpg);
           "
         ></div>
-        <div class="col-span-9 w-full">
+        <div class="col-span-9 w-full flex flex-col justify-center md:text-sm">
           <div class="text-black">
             Sydney man discovers he's $20 million richer after Powerball win
           </div>
@@ -339,12 +339,12 @@
           </div>
         </div>
         <div
-          class="col-span-3 bg-[#46A09B] bg-cover w-full"
+          class="col-span-3 md:min-h-[100px] bg-[#46A09B] bg-cover w-full"
           style="
             background-image: url(https://www.sawad.co.th/wp-content/uploads/2022/09/%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2-80-%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%8B%E0%B8%B2%E0%B8%95%E0%B8%B1%E0%B8%87.jpg);
           "
         ></div>
-        <div class="col-span-9 w-full">
+        <div class="col-span-9 w-full flex flex-col justify-center md:text-sm">
           <div class="text-black">
             Sydney man discovers he's $20 million richer after Powerball win
           </div>
@@ -355,12 +355,12 @@
           </div>
         </div>
         <div
-          class="col-span-3 bg-[#46A09B] bg-cover w-full"
+          class="col-span-3 md:min-h-[100px] bg-[#46A09B] bg-cover w-full"
           style="
             background-image: url(https://www.sawad.co.th/wp-content/uploads/2022/09/%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2-80-%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%8B%E0%B8%B2%E0%B8%95%E0%B8%B1%E0%B8%87.jpg);
           "
         ></div>
-        <div class="col-span-9 w-full">
+        <div class="col-span-9 w-full flex flex-col justify-center md:text-sm">
           <div class="text-black">
             Sydney man discovers he's $20 million richer after Powerball win
           </div>
@@ -371,12 +371,12 @@
           </div>
         </div>
         <div
-          class="col-span-3 bg-[#46A09B] bg-cover w-full"
+          class="col-span-3 md:min-h-[100px] bg-[#46A09B] bg-cover w-full"
           style="
             background-image: url(https://www.sawad.co.th/wp-content/uploads/2022/09/%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AB%E0%B8%A7%E0%B8%A2%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%B2-80-%E0%B8%9A%E0%B8%B2%E0%B8%97%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B9%80%E0%B8%9B%E0%B9%8B%E0%B8%B2%E0%B8%95%E0%B8%B1%E0%B8%87.jpg);
           "
         ></div>
-        <div class="col-span-9 w-full">
+        <div class="col-span-9 w-full flex flex-col justify-center md:text-sm">
           <div class="text-black">
             Sydney man discovers he's $20 million richer after Powerball win
           </div>
